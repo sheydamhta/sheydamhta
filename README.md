@@ -1,7 +1,7 @@
-- 👋 Hi, I’m sheyda Mohtasham Amiri. I’m studying medicine. And I’m new in coding.
+- 👋 Hi, I’m sheyda Mohtasham Amiri. I’m studying medicine. I’m new in coding but very passionet about it.
 - 👀 I’m interested in ML, NLP, Neuroscience, ...
-- 🌱 I’m currently learning Python and Javascript.
-- 📫 You can reach me by my email: sheydamohtashamamiri@gmail.com
+- 🌱 I’m currently learning Python with <a href="https://github.com/hejazizo">Ali Hejazizo</a> courses and Javascript with <a href="https://github.com/matthieua">Matt Delac</a> SheCodes courses .
+- 📫 How to reach me: sheydamohtashamamiri@gmail.com
 
 <!---
 sheydamhta/sheydamhta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
